@@ -35,7 +35,7 @@ You can clone this project, or use the below link to obtain the files.<br>
 | [Processing validation](https://github.com/hc01558/DEFEND_PRIME_Processing_Tools/tree/main/DEFEND_PRIME_Processing_Tools/EMIS%20Web/Validation_Workbooks/Processing_Validation) | Validates the EMIS Web extract processing software, checking that processing produces the expected results. | Excel validation workbook containing a test worksheet and synthetic data to demonstrate the validation process; Word documentation describing the tests; separate Word documentation of virtual machine testing procedures. |
  
 ### TPP SystmOne
-| Component | Description |
+| Component | Description | Contents |
 |---|---|
 | [Deployed workbook](https://github.com/hc01558/DEFEND_PRIME_Processing_Tools/tree/main/DEFEND_PRIME_Processing_Tools/TPP%20SystmOne/Deployed_Workbook) | Ready to use TPP SystmOne extract processing tool with instructions. | Excel workbook with VBA modules installed; detailed Word user instructions. |
 | [Source VBA Modules](https://github.com/hc01558/DEFEND_PRIME_Processing_Tools/tree/main/DEFEND_PRIME_Processing_Tools/TPP%20SystmOne/Source_VBA_Modules) | Source code for the TPP SystmOne extract processing software, provided separately. | Exported VBA `.bas` modules as installed in the deployed workbook. |
