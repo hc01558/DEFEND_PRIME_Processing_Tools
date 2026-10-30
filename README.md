@@ -22,7 +22,7 @@ VBA - Visual Basic for Applications<br>
 XML - eXtensible Markup Language<br>
 
 ## Download 
-You can clone this repository or download all files as a ZIP archive using Code > Download ZIP.
+You can clone this repository or download all files as a ZIP from: https://github.com/hc01558/DEFEND_PRIME_Processing_Tools/releases
 
 ## Repository contents
 
